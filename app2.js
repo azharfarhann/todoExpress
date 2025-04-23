@@ -13,9 +13,9 @@
 
 
 // 6 common API'S
-//  STUDENTS        METHOD
+//ex: STUDENTS        METHOD
 
-//1. get all         (GET)
+//1. Get all         (GET)
 //2. GET by id       (GET)
 //3. ADD             (POST)
 //4. Update by id    (PUT)
